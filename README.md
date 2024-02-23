@@ -30,4 +30,4 @@
 
 ###
 
-![Konolin](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Konolin](https://github-readme-stats.vercel.app/api?username=Konolin&show_icons=true&theme=radical)
